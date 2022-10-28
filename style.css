@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.bimage {
+    width: 100%;
+    height: 100vh;
+    background-image: url(photo3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 90%;
+}
+
+.headtext {
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin: 5px 10px;
+    padding: 15px;
+}
+
+.pic {
+    height: 100px;
+    border: 2px solid black;
+
+}
+
+.p1 {
+    color: white;
+    font-size: 50px;
+}
+
+footer {
+    background-color: bisque;
+    padding: 20px;
+}
