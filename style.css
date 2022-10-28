@@ -11,7 +11,7 @@
 
 .bimage {
     width: 100%;
-    height: 120vh;
+    height: 140vh;
     background-image: url(photo3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -66,6 +66,8 @@ li {
 }
 
 footer {
-    background-color: bisque;
-    padding: 20px;
+    color: white;
+    text-align: center;
+    background-color: rgb(50, 49, 48);
+    font-size: 30px;
 }
